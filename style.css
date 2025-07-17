@@ -70,3 +70,11 @@ margin-bottom: 50px;
     }
     
 }
+main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.teams{
+    display: flex;
+    align-items: center;
+}
