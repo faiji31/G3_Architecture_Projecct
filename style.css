@@ -78,3 +78,20 @@ main{
     display: flex;
     align-items: center;
 }
+.img-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    margin-top: 140px;
+}
+.our-features{
+    margin-left: 130px;
+    min-width: 530px;
+}
+.feature-title{
+    font-size: 45px;
+}
+#title3{
+    color: #FF900E;
+    font-weight: bolder;
+}
